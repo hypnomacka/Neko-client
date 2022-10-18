@@ -40,4 +40,4 @@ updatemd5.bat
 updatemd5.sh
 updatenames.bat
 updatenames.sh
-src/minecraft/META-INF
+Neko/src/minecraft/META-INF
